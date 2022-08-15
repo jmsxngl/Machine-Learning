@@ -59,5 +59,3 @@ And it can be concluded that this model can predict the price of a used car in a
 - By increasing the number of datasets it may help in modeling results, the lack of variation in the data may lead to decreased accuracy in making predictions
 - Adding new features such as fit conditions and engine health may have a positive impact on the model
 - Maybe every prediction result of this model can be directly confirmed its accuracy against the actual price in order to increase the precision in prediction.
-
-Thank You  - James Nainggolan
